@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">PillMer</string>
+    <string name="no_cardetails">Нажмите на кнопку, чтобы создать ваш первый курс!</string>
+    <string name="title_activity_add_reminder">Настройки</string>
+    <string name="title_activity_edit_reminder">Изменить</string>
+    <string name="title_activity_licenses">Licenses</string>
+
+    <string name="add_reminder">Напоминание</string>
+    <string name="details">Детали</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="repeat">Повторять</string>
+    <string name="repeat_off">Выключено</string>
+    <string name="repeat_no">Интервал повторений </string>
+    <string name="repeat_type">Тип повторений</string>
+
+    <string name="action_discard_reminder">Удалить курс</string>
+    <string name="action_save_reminder">Сохранить курс</string>
+
+    <string name="editor_activity_title_new_reminder">Добавить детали курса</string>
+    <string name="editor_activity_title_edit_reminder">Создать курс</string>
+    <string name="unsaved_changes_dialog_msg">Сбросить изменения и выйти?</string>
+    <string name="discard">Сбросить</string>
+
+    <string name="keep_editing">Продолжить создание</string>
+    <string name="delete_dialog_msg">Удалить этот курс?</string>
+
+    <string name="delete">Удалить</string>
+
+    <string name="cancel">Отменить</string>
+    <string name="editor_delete_reminder_successful">Курс удалён</string>
+
+    <string name="editor_delete_reminder_failed">Ошибка удаления курса</string>
+
+    <string name="editor_insert_reminder_successful">Курс успешно создан</string>
+
+    <string name="editor_insert_reminder_failed">Ошибка при сохранении курса</string>
+
+    <string name="editor_update_reminder_successful">Параметры изменены</string>
+
+    <string name="editor_update_reminder_failed">Ошибка изменения параметров</string>
+
+    <string name="reminder_title">PillMer</string>
+</resources>
