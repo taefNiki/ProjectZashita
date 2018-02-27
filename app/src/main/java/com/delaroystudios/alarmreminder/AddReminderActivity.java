@@ -325,7 +325,7 @@ public class AddReminderActivity extends AppCompatActivity implements
 
         // Create List Dialog
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Select Type");
+        builder.setTitle("Выберите вариант");
         builder.setItems(items, new DialogInterface.OnClickListener() {
 
             public void onClick(DialogInterface dialog, int item) {
@@ -602,7 +602,7 @@ public class AddReminderActivity extends AppCompatActivity implements
                 new AlarmScheduler().setAlarm(getApplicationContext(), selectedTimestamp, mCurrentReminderUri);
             }
 
-            Toast.makeText(this, "Alarm time is " + selectedTimestamp,
+            Toast.makeText(this, "Время сигнала: " + selectedTimestamp,
                     Toast.LENGTH_LONG).show();
         }
 

@@ -7,12 +7,12 @@
 
     <string name="add_reminder">Напоминание</string>
     <string name="details">Детали</string>
-    <string name="date">Дата</string>
-    <string name="time">Время</string>
+    <string name="date">Дата первого оповещения</string>
+    <string name="time">Время оповещения</string>
     <string name="repeat">Повторять</string>
     <string name="repeat_off">Выключено</string>
-    <string name="repeat_no">Интервал повторений </string>
-    <string name="repeat_type">Тип повторений</string>
+    <string name="repeat_no">Периодичность повторений </string>
+    <string name="repeat_type">Единицы времени</string>
 
     <string name="action_discard_reminder">Удалить курс</string>
     <string name="action_save_reminder">Сохранить курс</string>

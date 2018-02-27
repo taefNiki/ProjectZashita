@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity implements LoaderManager.Loa
     public void addReminderTitle(){
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
-        builder.setTitle("Выберите название");
+        builder.setTitle("Введите название");
 
         final EditText input = new EditText(this);
         input.setInputType(InputType.TYPE_CLASS_TEXT);
